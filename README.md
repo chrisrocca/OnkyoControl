@@ -1,4 +1,4 @@
 OnkyoControl
 ============
 
-Application to control onkyo receivers
+Application to control Onkyo receivers
