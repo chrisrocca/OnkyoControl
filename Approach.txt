@@ -1,1 +1,7 @@
 This document outlines the basic approach to implemeting the Onkyo control clients.
+
+Basic Feature on Device Configuration:
+- Discover and Record
+- Report 
+- Update
+- Delete
