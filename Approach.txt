@@ -1,7 +1,12 @@
 This document outlines the basic approach to implemeting the Onkyo control clients.
 
-Basic Feature on Device Configuration:
-- Discover and Record
-- Report 
-- Update
-- Delete
+Basic Feature on Device Configuration
+
+  - Discover and Record
+  - Report 
+  - Update
+  - Delete
+
+Create Rest API to enable integration of the receiver into broader automation system.
+
+
